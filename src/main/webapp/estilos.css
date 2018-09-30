@@ -1,0 +1,13 @@
+.header {
+	text-align: center;
+	font-weight: bold;
+}
+
+table {
+	text-align:center;
+}
+
+td:hover {
+	background-color: #79AF79;
+	color: white;
+}
